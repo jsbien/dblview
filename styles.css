@@ -1,0 +1,103 @@
+.left {
+    width:50%;
+    position:relative;
+    float:left;
+    min-width:384px;
+}
+
+.right {
+    width:50%;
+    position:relative;
+    float:left;
+    min-width:384px;
+}
+
+input.url {
+    width:60%;
+}
+
+.menu {
+    height: 120px;
+    width:400px;
+}
+
+iframe {
+    width:100%;
+    min-height:720px;
+    height:100%;
+    border-width:0px;
+    overflow:hidden;
+    margin-bottom:10px;
+}
+
+
+.sliderHor {
+    width:97%;
+    height:20px;
+}
+
+.sliderVer {
+    margin-left:98%;
+    width:3%;
+    height:100%;
+    text-align:right;
+}
+
+#sliderVer{
+    height:580px;
+}
+
+.plugin {
+    width:97%;
+    position:relative;
+    float:left;
+}
+
+.ui-widget-content {
+    font-size:0.6em;
+}
+
+.ui-widget {
+    font-size:0.8em;
+}
+
+.label{
+    width:55px;
+    display:block;
+    float:left;
+    text-align:right;
+    padding-right:5px;
+    padding-top:4px;
+}
+
+.bttn-s {
+    width:25px;
+}
+
+.top{
+    width:100%;
+    min-width:768px;
+    background-color:silver;
+    text-align:center;
+}
+
+.outer{
+    width:100%;
+    min-width:768px;
+    
+}
+
+.plugin{
+    border-width:1px;
+    border-style:solid;
+    border-color:navy;
+}
+
+.holder{
+    margin-top:2px;
+    width:100%;
+}
+
+.holder-bttm{
+    margin-left:60px;
+}
